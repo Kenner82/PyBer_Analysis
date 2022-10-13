@@ -9,6 +9,7 @@ Using Python, Pandas, and Matplotlib, 2 .csv files with ride-sharing data were m
 
 
 
+<img width="523" alt="PyBer_summary_df" src="https://user-images.githubusercontent.com/111674383/195530037-b434a66e-529c-4180-92c0-6a25776c6308.png">
 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/111674383/195526799-6c1f7710-cab2-4c0c-b81b-326ab63091ae.png)
