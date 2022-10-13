@@ -1,8 +1,7 @@
 # PyBer Analysis
 
 ## Project Overview
-
-
+Using Python, Pandas, and Matplotlib, 2 .csv files with ride-sharing data were merged and analyzed. A summary DataFrame was used to calculate and display the Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver for each type of city (urban, suburban, and rural). A multi-line graph was then created to display the total fares by city type each week from 1/1/2019 through 4/28/2019.
 
 ## Results
 
